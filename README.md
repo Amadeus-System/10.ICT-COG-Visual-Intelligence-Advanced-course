@@ -1,7 +1,7 @@
 # 10.ICT-COG-Visual-Intelligence-Advanced-course
 ICT-COG 시각지능 고급과정 공부기록
 
-![ICT-COG 시각지능 고급과정](https://drive.google.com/file/d/1r8sRAJEro3nJ3DyCMJ7hjV2QSONH1wxS/view?usp=sharing)
+![ICT-COG 시각지능 고급과정](https://drive.google.com/uc?export=view&id=1r8sRAJEro3nJ3DyCMJ7hjV2QSONH1wxS)
 
 ## What I have learned
 
