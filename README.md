@@ -1,5 +1,5 @@
 # 10.ICT-COG-Visual-Intelligence-Advanced-course
-ICT-COG 시각지능 고급과정 공부기록
+Repository for my ICT-COG Visual Intelligence Advanced course 
 
 ![ICT-COG 시각지능 고급과정](https://drive.google.com/uc?export=view&id=1r8sRAJEro3nJ3DyCMJ7hjV2QSONH1wxS)
 
@@ -45,6 +45,5 @@ ICT-COG 시각지능 고급과정 공부기록
 * 38일차: object detection – yolo v3 활용
 * 39일차: object detection – yolo v3 활용
 * 40일차: object detection – yolo v3 활용
-
-
+* Final Project : [Kaggle] Human Protein Atlas (HPA) - Single cell classification problem
 
