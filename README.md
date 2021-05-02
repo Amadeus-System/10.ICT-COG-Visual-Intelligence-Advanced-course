@@ -1,6 +1,10 @@
 # 10.ICT-COG-Visual-Intelligence-Advanced-course
 Repository for my ICT-COG Visual Intelligence Advanced course 
 
+
+
+![ICT-COG 시각지능 고급과정](https://drive.google.com/uc?export=view&id=1bGU1Ejz8U4JkDGsgj7eODpq4Bn_gCmyd)
+
 ![ICT-COG 시각지능 고급과정](https://drive.google.com/uc?export=view&id=1r8sRAJEro3nJ3DyCMJ7hjV2QSONH1wxS)
 
 ## What I have learned
